@@ -1,8 +1,8 @@
 package com.nisum.beans;
 
 public class Order {
-    Integer orderId;
-    String orderName;
+    private Integer orderId;
+   private String orderName;
 
     public Order() {
     }
